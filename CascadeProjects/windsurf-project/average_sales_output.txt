@@ -1,0 +1,3 @@
+Average Sales Analysis
+======================
+Average Sales: $366.02

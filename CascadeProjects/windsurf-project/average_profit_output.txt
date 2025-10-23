@@ -1,0 +1,3 @@
+Average Profit Analysis
+=======================
+Average Profit: $98.11

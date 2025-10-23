@@ -1,7 +1,7 @@
 # Project Calculations
 
 # Determine what is the average profit within the state of michigan for consumer segment companies?
-# Within the second class ship model, what is the average number of sales within the furniture category?
+# Within the second class ship model, what is the average number of sales ($) within the furniture category?
 # since we are determining the average number of sales, we need to use csv files to format
 
 import csv
