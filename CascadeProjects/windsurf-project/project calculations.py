@@ -1,4 +1,7 @@
 # Project Calculations
+# Ronghao Wang # SI 201 Fall 2025
+# Used AI to help with the project debugging and testing
+
 
 # Determine what is the average profit within the state of michigan for consumer segment companies?
 # Within the second class ship model, what is the average number of sales ($) within the furniture category?
